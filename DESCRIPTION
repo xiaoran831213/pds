@@ -1,0 +1,11 @@
+Package: pds
+Title: 'Posterir Density Simulator'
+Version: 0.1.0
+Authors@R: person("Xiaoran", "Tong", email = "xiaoran.tong.cn@gmail.com", role = c("aut", "cre"))
+Description: given a prior spanned by descrete sample points, a density function and observations, calculate the posterior density at the same sample points.
+Depends: R (>= 3.5)
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
